@@ -25,3 +25,4 @@ You can deploy your new vanilla website, along with [Serverless Functions](https
 ```shell
 $ now
 ```
+this will help you to deploy the vanilla website easily
